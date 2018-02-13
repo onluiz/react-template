@@ -10,7 +10,7 @@ https://redux-saga.js.org/
 https://github.com/reactjs/reselect
 
 ## server api example
-https://github.com/fullstackreact/food-lookup-demo
+https://github.com/diegohaz/rest
 
 ## airbnb js lint
 https://github.com/airbnb/javascript
@@ -29,6 +29,8 @@ https://github.com/styled-components/styled-components
 https://redux-form.com/7.2.3/examples/material-ui/
 
 ## Material-ui
+
+## Axios
 
 ## More
 https://github.com/styled-components/awesome-styled-components
